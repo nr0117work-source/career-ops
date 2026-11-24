@@ -1,0 +1,2 @@
+# このフォークだけにあるファイル（update-system.mjs apply で上書き・削除させない）
+jp-tools/
